@@ -1,0 +1,37 @@
+# UK
+DOMAIN-SUFFIX,nonprod-ffs.io
+DOMAIN-KEYWORD,monzo,
+# LemFi
+DOMAIN-SUFFIX,lemfi.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,customer.io
+# FreeTrade
+DOMAIN-SUFFIX,freetrade.io
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,asnapieu.com
+# TD 212 UK
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-KEYWORD,trading212
+# AQUA 信用卡
+DOMAIN-SUFFIX,newdaycards.co
+DOMAIN-KEYWORD,newdaycards
+# moneybox
+DOMAIN-SUFFIX,moneyboxapp.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.eu
+# PaySend
+DOMAIN-SUFFIX,paysend.io
+# 汇丰 HSBC UK
+DOMAIN-SUFFIX,hsbc.co.uk
+# Top Cashback
+DOMAIN-SUFFIX,topcashback.com
+# Kroo
+DOMAIN-SUFFIX,kroo.com
+# 热气球 Uphold
+DOMAIN-SUFFIX,uphold.com
+# UK域名兜底
+DOMAIN-SUFFIX,co.uk
+# GiffGaff 分流
+DOMAIN,report.giffgaff.gbqofs.io
+DOMAIN-SUFFIX,giffgaff.com
